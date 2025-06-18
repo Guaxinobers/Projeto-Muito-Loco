@@ -1,4 +1,3 @@
-# TRABALHO LEGAR :)
+# Projeto Mercadão do Zé
 
-teste(tm)
-teste.py rafael
+entrega do projeto do Mercadão do Zé
